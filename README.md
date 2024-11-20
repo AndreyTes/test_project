@@ -34,8 +34,11 @@ GET/ lessons/sync
 
 Для эндпоинта
 GET /lessons?date=2019-02-01
+
 GET /lessons/?teacherIds=1,2
+
 GET /lessons?status=1 
+
 GET /lessons?studentsCount=3
 
 Фильтры можно комбинировать 
